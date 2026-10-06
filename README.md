@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Koushik
 
-## AI & Automation Engineer
+## AI & Automation Engineer | GenAI | Agentic AI | n8n | LangChain | LangGraph | React | Docker
 
 Passionate about building intelligent systems using Generative AI, Agentic AI, Workflow Automation, and Full-Stack Development.
 
