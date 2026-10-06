@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I'm Koushik
 
-<!--
-**koushik12122000/koushik12122000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & Automation Engineer
 
-Here are some ideas to get you started:
+Passionate about building intelligent systems using Generative AI, Agentic AI, Workflow Automation, and Full-Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 Building GenAI and Agentic AI Applications
+- 🔄 Workflow Automation using n8n
+- 🌐 React Frontend Development
+- 🐳 Docker & Cloud Deployments
+- 🧠 LLM Powered Solutions
+- ⚡ Business Process Automation
+
+---
+
+## 💻 Tech Stack
+
+### AI & GenAI
+- Python
+- OpenAI
+- Azure OpenAI
+- LangChain
+- LangGraph
+- CrewAI
+- Vector Databases
+- RAG Systems
+
+### Automation
+- n8n
+- REST APIs
+- Webhooks
+- MCP Integrations
+
+### Frontend
+- React.js
+- JavaScript
+- HTML
+- CSS
+
+### Backend & DevOps
+- Node.js
+- Express.js
+- Docker
+- PostgreSQL
+- GitHub Actions
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Multi-Agent Travel Planner
+AI-powered travel planning platform using multiple coordinated agents to generate personalized travel itineraries.
+
+### 🤖 AI Workflow Automation
+Automated business workflows using n8n, APIs, AI agents, and intelligent decision-making.
+
+### 📄 Intelligent Document Processing
+Extract, process, classify, and summarize documents using LLM-powered pipelines.
+
+### 🔄 Self-Healing Docker Monitoring Platform
+Automated API health monitoring system with recovery workflows, alerts, and Docker container management.
+
+### 📋 React Multi-Step Funnel Application
+Modern multi-step onboarding and lead capture funnel with scalable React architecture.
+
+---
+
+## 📈 Current Focus
+
+- Agentic AI Systems
+- Multi-Agent Architectures
+- RAG Applications
+- AI Automation
+- n8n Workflows
+- Azure AI Services
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/koushik12122000
+- GitHub: github.com/koushik12122000
+
+---
+
+⭐ Always open to collaborating on AI, GenAI, Agentic AI, and Automation projects.
